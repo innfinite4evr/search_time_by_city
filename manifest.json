@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Search Google for",
+    "description": "Easily search time on location with highlighted text!",
+    "version": "1.0",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "menus",
+        "tabs"
+    ]
+}
